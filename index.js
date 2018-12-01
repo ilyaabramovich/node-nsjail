@@ -1,4 +1,5 @@
 const BinWrapper = require("bin-wrapper");
+const path = require("path");
 
 const base = "https://github.com/ilyaabramovich/node-nsjail/raw/master";
 
