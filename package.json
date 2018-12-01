@@ -1,0 +1,11 @@
+{
+  "name": "node-nsjail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ilyaabramovich/node-nsjail.git",
+  "author": "ilyaabramovich <ilyaabramovich1998@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bin-wrapper": "^4.1.0"
+  }
+}
